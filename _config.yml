@@ -1,0 +1,151 @@
+# ==============================================================
+# WAX CONFIGURATION
+# ==============================================================
+# Jekyll configuration files are written in YAML format.
+# Colons, tabs/spacing, and quotes are meaningful in YAML.
+# It is recommended you look at the following guide to avoid
+# syntax errors in this file:
+# ~> https://learnxinyminutes.com/docs/yaml/
+#
+#
+# Questions ?
+# ~> https://minicomp.github.io/wiki/#/
+# ~> https://gitter.im/minicomp/wax/
+#
+# ---------------------------------------------------------------
+# MAIN SETTINGS
+# ---------------------------------------------------------------
+# Feel free to change these! For more info, refer to:
+# ~> https://jekyllrb.com/docs/configuration/options/
+
+title:            'United Fronteras <span class="subheading">US-Mexico</span>'
+description:      'The United Fronteras Exhibit brings together works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. UF-E offers audiences a unique opportunity to meaningfully engage in the multidimensional layers of border regions.'
+url:              'https://unitedfronteras.github.io'
+baseurl:          '/ufexhibition_mexusa'
+copyright:        'Copyright 2020'
+logo:             '/assets/logo.png'
+
+# ---------------------------------------------------------------
+# BUILD SETTINGS
+# ---------------------------------------------------------------
+# Best not to mess with these unless you know what you're doing!
+
+permalink: 'pretty'
+sass:
+  style: compressed
+exclude:
+  - Gemfile*
+  - Rakefile
+  - vendor
+  - spec
+  - README.md
+webrick:
+  headers:
+    'Access-Control-Allow-Origin': '*'
+kramdown:
+ auto_ids:       true
+ footnote_nr:    1
+ entity_output:  as_char
+ footnote_backlink: "&#x21a9;&#xfe0e;"
+ toc_levels:     1..6
+ smart_quotes:   lsquo,rsquo,ldquo,rdquo
+ enable_coderay: false
+
+
+# --------------------------------------------------------------
+# COLLECTION SETTINGS
+# --------------------------------------------------------------
+# Wax leverages Jekyll collections for much of its
+# functionality, therefor some of the keys below are from
+# Jekyll while others are Wax-specific.
+# For more info, refer to:
+# ~> https://jekyllrb.com/docs/collections/
+
+collections:
+  exhibits:
+    output: true
+  reflections:
+    output: true
+  united: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'united_item' # the layout for the pages to use
+    metadata:
+      source: 'united.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/united' # path to the directory of images within `_data`
+
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
+    collections:
+      united:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - label
+          - creators
+          - status
+
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+menu:
+  - label: 'About'
+    sub:
+      - label: 'About the Exhibit'
+        link: '/about/'
+      - label: 'Credits'
+        link: 'https://unitedfronteras.github.io/nosotrxs/'
+  # - label: 'Exhibits'
+  #   sub:
+  #     - label: 'Active'
+  #       link: '/exhibits/a/'
+  #     - label: 'Inactive'
+  #       link: '/exhibits/b/'
+  #     - label: 'In-Progress'
+  #       link: '/exhibits/c/'
+  - label: 'Browse'
+    link: '/collection/'
+  - label: 'Search'
+    link: '/search/'
+  - label: 'Reflections'
+    sub:
+      - label: 'Essential Resource - Nathan Ellstrand'
+        link: '/reflections/ellstrand/'
+      - label: 'Herida Abierta - Jorge Gómez'
+        link: '/reflections/gomez/'
+      - label: 'Participatory Design - Laura Gonzales'
+        link: '/reflections/gonzales/'
+      - label: 'Border Stories - Annette Zapata'
+        link: '/reflections/zapata/'
+  - label: 'Español'
+    link: '/spanish/'
+
+# --------------------------------------------------------------
+# SITE FOOTER SETTINGS
+# --------------------------------------------------------------
+#
+
+footer:
+  links:
+    - label: 'GitHub'
+      link: 'https://github.com/unitedfronteras/ufexhibition_mexusa'
+    - label: 'Credits'
+      link: 'https://unitedfronteras.github.io/nosotrxs/'
+    - label: 'Collaborate'
+      link: 'https://unitedfronteras.github.io/collaborate/'
+  logos:
+    - img: '/img/logo.png'
+
+# FIN
