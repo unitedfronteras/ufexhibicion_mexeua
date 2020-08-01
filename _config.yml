@@ -105,8 +105,8 @@ menu:
     sub:
       - label: 'Acerca de la exhibición'
         link: '/acerca/'
-      - label: 'Credits'
-        link: 'https://unitedfronteras.github.io/nosotrxs/'
+      - label: 'Créditos'
+        link: 'https://unitedfronteras.github.io/es/nosotrxs/'
   # - label: 'Exhibits'
   #   sub:
   #     - label: 'Active'
@@ -130,7 +130,7 @@ menu:
       - label: 'Border Stories - Annette Zapata'
         link: '/reflections/zapata/'
   - label: 'English'
-    link: '/english/'
+    link: 'https://unitedfronteras.github.io/ufexhibition_mexusa/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

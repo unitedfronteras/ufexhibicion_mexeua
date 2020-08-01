@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Browse the Collection
-permalink: /collection/
+title: Explora la colección
+permalink: /colección/
 ---
 
 Los proyectos en esta exhibición forman un directorio digital que incluye diferentes disciplinas cuyo enfoque está en la frontera entre México y Estados Unidos. Pulsando cualquiera de las imágenes que se despliegan a continuación, encontrará una breve descripción de la propuesta y los enlaces para su acceso.

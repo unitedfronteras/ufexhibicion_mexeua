@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Próximamente disponible en español
-permalink: /spanish/
+title: English
+permalink: /english/
 collection: united
 ---
 

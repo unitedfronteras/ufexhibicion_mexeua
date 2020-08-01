@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Credits
-permalink: '/credits/'
+title: Créditos
+permalink: '/créditos/'
 ---
 
 1 **Data Team** (Maira Álvarez, Carolina Alonso, Laura Gonzales, Sylvia Fernández, Ivonne Ramírez, Verónica Romero, Rubria Rocha de Luna, and Annette Zapata)
