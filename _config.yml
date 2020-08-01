@@ -140,11 +140,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/unitedfronteras/ufexhibition_mexusa'
+      link: 'https://github.com/unitedfronteras/ufexhibicion_mexeua'
     - label: 'Créditos'
-      link: 'https://unitedfronteras.github.io/nosotrxs/'
+      link: 'https://unitedfronteras.github.io/es/nosotrxs/'
     - label: 'Colabora'
-      link: 'https://unitedfronteras.github.io/collaborate/'
+      link: 'https://unitedfronteras.github.io/es/collaborate/'
   logos:
     - img: '/img/logo.png'
 
