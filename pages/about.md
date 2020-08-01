@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About the Exhibit"
-permalink: /about/
+title: "Acerca de la exhibicion"
+permalink: /acerca/
 ---
 
 Esta exhibición es una ventana a **United Fronteras**, un directorio digital de proyectos que documenta encuentros y desencuentros en la ahora región fronteriza  entre México y Estados Unidos desde tiempos precoloniales hasta el siglo XXI. Este récord digital cultural  muestra esta área desde diferentes perspectivas que incluyen la literatura, archivos, arte, historias orales, música, etc., y compila proyectos activos, en progreso, e inactivos que hacen uso de componentes digitales y/o tecnológicos.

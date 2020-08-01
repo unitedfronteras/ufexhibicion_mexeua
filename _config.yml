@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'United Fronteras <span class="subheading">US-Mexico</span>'
-description:      'The United Fronteras Exhibit brings together works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. UF-E offers audiences a unique opportunity to meaningfully engage in the multidimensional layers of border regions.'
+title:            'United Fronteras <span class="subheading">Mexico-EUA</span>'
+description:      'El Proyecto United Fronteras reúne trabajos activos, inactivos y en desarrollo que utilizan componentes digitales para documentar las fronteras desde múltiples perspectivas (literatura, archivos, arte, historias orales, música, entre otros) desde la época precolonial hasta el siglo veintiuno. UF-E ofrece al público una oportunidad única para participar de manera significativa en las capas multidimensionales de las regiones fronterizas.'
 url:              'https://unitedfronteras.github.io'
-baseurl:          '/ufexhibition_mexusa'
+baseurl:          '/ufexhibicion_mexeua'
 copyright:        'Copyright 2020'
 logo:             '/assets/logo.png'
 
@@ -101,10 +101,10 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: 'Acerca'
     sub:
-      - label: 'About the Exhibit'
-        link: '/about/'
+      - label: 'Acerca de la exhibición'
+        link: '/acerca/'
       - label: 'Credits'
         link: 'https://unitedfronteras.github.io/nosotrxs/'
   # - label: 'Exhibits'
@@ -115,11 +115,11 @@ menu:
   #       link: '/exhibits/b/'
   #     - label: 'In-Progress'
   #       link: '/exhibits/c/'
-  - label: 'Browse'
-    link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Reflections'
+  - label: 'Explora'
+    link: '/colección/'
+  - label: 'Buscar'
+    link: '/buscar/'
+  - label: 'Reflecciones'
     sub:
       - label: 'Essential Resource - Nathan Ellstrand'
         link: '/reflections/ellstrand/'
@@ -129,8 +129,8 @@ menu:
         link: '/reflections/gonzales/'
       - label: 'Border Stories - Annette Zapata'
         link: '/reflections/zapata/'
-  - label: 'Español'
-    link: '/spanish/'
+  - label: 'English'
+    link: '/english/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -141,9 +141,9 @@ footer:
   links:
     - label: 'GitHub'
       link: 'https://github.com/unitedfronteras/ufexhibition_mexusa'
-    - label: 'Credits'
+    - label: 'Créditos'
       link: 'https://unitedfronteras.github.io/nosotrxs/'
-    - label: 'Collaborate'
+    - label: 'Colabora'
       link: 'https://unitedfronteras.github.io/collaborate/'
   logos:
     - img: '/img/logo.png'
