@@ -8,7 +8,7 @@ show_title: false
 
   <div class='parallax-caption'>
     <div class='wax-inline-container'>
-      <small>A part of the <a href='https://unitedfronteras.github.io/'>United Fronteras</a> project</small>
+      <small>Una parte del proyecto <a href='https://unitedfronteras.github.io/'>United Fronteras</a></small>
     </div>
   </div>
 
