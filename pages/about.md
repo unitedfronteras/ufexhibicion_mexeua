@@ -17,7 +17,7 @@ Esta exhibición representa la culminación de nuestra primera fase. Para llegar
 1. Identificamos proyectos que a) hablarán/contuvieran material de la frontera y b) tuvieran al menos un componente digital o tecnológico.
 2. Creamos la metadata de los proyectos,de acuerdo a la información proveniente de los sitios de Internet de estos.
 3. Contactamos a los autores para informarles sobre esta iniciativa y solicitarles permiso para publicar y promocionar sus proyectos en este directorio.
-4. Los colaboradores se dividieron en un equipo de data (encargado de la depuración de datos), un equipo de narrativa (responsable del contenido de la página) y un equipo técnico (a cargo de la [computación mínima](http://go-dh.github.io/mincomp/) necesaria para crear el sitio.
+4. Los colaboradores se dividieron en un equipo de data (encargado de la depuración de datos), un equipo de narrativa (responsable del contenido de la página) y un equipo técnico (a cargo de la [computación mínima](http://go-dh.github.io/mincomp/) necesaria para crear el sitio).
 
 En nuestra próxima fase, estamos trabajando en una serie de experimentos para “desmapear” las regiones fronterizas utilizando nuestros datos. ¡Manténganse al tanto!
 
