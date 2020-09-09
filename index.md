@@ -23,4 +23,4 @@ La curaduría de esta exhibición es resultado del trabajo mancomunado de acadé
 
 ### Conoce la colección
 
-{% include collection_gallery.html facet_by='status' collection='united' %}
+{% include collection_gallery.html facet_by='estatus' collection='united' %}

@@ -119,7 +119,7 @@ menu:
     link: '/colección/'
   - label: 'Buscar'
     link: '/buscar/'
-  - label: 'Reflecciones'
+  - label: 'Reflexiones'
     sub:
       - label: 'Ellos nos llevan, nos guían - Lizbeth De La Cruz'
         link: '/reflexiones/delacruz/'
