@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Participatory Design and Translation as Collaborative Models in United Fronteras"
-permalink: /reflexiones/gonzales/
+permalink: /reflections/gonzales/
 ---
 
 *By Laura Gonzales, Assistant Professor of Digital Writing and Cultural Rhetorics and Associate Director of TRACE Innovation Initiative, University of Florida*

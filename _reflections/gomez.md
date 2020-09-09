@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Herida Abierta: Frontera Cerrada"
-permalink: /reflexiones/gomez/
+permalink: /reflections/gomez/
 ---
 
 *By Jorge Gómez, A first-generation Latinx immigrant who sits on the Board of Directors for Las Americas Immigrant Advocacy Center. He teaches English at El Paso Community College*

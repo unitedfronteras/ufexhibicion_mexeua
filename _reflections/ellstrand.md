@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Essential Resource to Understand the Mexico-United States Border Region"
-permalink: /reflexiones/ellstrand/
+permalink: /reflections/ellstrand/
 ---
 
 *By Nathan Ellstrand, Ph.D. Candidate, History Department, Loyola University Chicago*
