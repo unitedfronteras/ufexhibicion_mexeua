@@ -10,4 +10,4 @@ Las categorías se redujeron solamente a proyectos activos,  inactivos y en desa
 
 La curaduría de esta exhibición es resultado del trabajo mancomunado de académicos de México y Estados Unidos. Los proyecto incluidos en este índice cuentan con la aprobación de sus autores o está basada en la información proveída directamente de los sitios en Internet de los proyectos. Cabe señalar, que hubo proyectos que no fueron incluidos ya que sus autores no aprobaron su incorporación, sin embargo, esto no significa que *United Fronteras* los excluye o no está al tanto de este material/ temas que forman parte del record digital cultural de la frontera México-Estados Unidos.  Asimismo,*United Fronteras* constantemente está identificando y abierto a la incorporación de proyectos que cumplan con los [protocolos establecidos](https://unitedfronteras.github.io/es/collaborate/).
 
-{% include collection_gallery.html collection='united' facet_by='status' %}
+{% include collection_gallery.html collection='united' facet_by='estatus' %}
