@@ -121,6 +121,8 @@ menu:
     link: '/buscar/'
   - label: 'Reflexiones'
     sub:
+      - label: 'Protesta, poesía y resistencia - Carolina Alonso'
+        link: '/reflections/alonso/'
       - label: 'Ellos nos llevan, nos guían - Lizbeth De La Cruz'
         link: '/reflections/delacruz/'
       - label: 'Essential Resource - Nathan Ellstrand'
@@ -135,6 +137,8 @@ menu:
         link: 'https://reviewsindh.pubpub.org/v1-n8-9'
       - label: 'Border Stories - Annette Zapata'
         link: '/reflections/zapata/'
+      - label: 'Borderlands (digital) Histories - Joel Zapata'
+        link: '/reflections/zapataj/'
   - label: 'English'
     link: 'https://unitedfronteras.github.io/ufexhibition_mexusa/'
 
