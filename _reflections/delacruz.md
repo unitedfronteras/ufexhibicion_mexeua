@@ -7,9 +7,6 @@ permalink: /reflections/delacruz/
 *Por Lizbeth De La Cruz Santana, Candidata a doctora, Universidad de California Davis*
 
 
-*Por Lizbeth De La Cruz Santana, Candidata a doctora, Universidad de California Davis*
-
-
 En el texto fronterizo canónico, *Borderlands/La frontera: La nueva mestiza* (1987), Gloria Anzaldúa hace referencia a *Los Antiguos Mexicanos: A través de sus crónicas y cantares* (1961) de Miguel León-Portilla citando las líneas,
  
 *“Los que están mirando (leyendo),*
