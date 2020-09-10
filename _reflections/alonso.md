@@ -23,7 +23,7 @@ Me gustaría terminar recordando que desde el siglo diecinueve la literatura, a 
 
 
 
- Referencias:
+ **Referencias:**
  
 Anzaldúa, Gloria. *Borderlands/ La Frontera: The New Mestiza*. San Francisco: Spinsters/Aunt Lute, 2007. Print. 
 
