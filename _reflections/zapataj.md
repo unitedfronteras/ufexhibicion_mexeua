@@ -62,4 +62,4 @@ Overview,” Great Plains Research 10 (Fall 2000): 243-252; Bryan Winston, “Me
 Nebraska, 1910-1950,” Nebraska History, 100 (Spring 2019): 3-19.
 
 2 “What is the Rural Immigration Network (RIN)?” Rural Immigration Network,
-https://ruralimmigration.net/about2-page/.
+[https://ruralimmigration.net/about2-page/](https://ruralimmigration.net/about2-page/).
