@@ -18,7 +18,7 @@ development. Such work is decentering the traditional sense of place within bord
 Latina/o studies, pushing both fields deeper into the nation’s interior.1 This process has led to a
 richer understanding of Latina/os, the United States, and their various borderlands.
 
-*United Fronteras* in its first phase, Mexico-United States borderlands, features two digital projects that are at the foreground of furthering our
+*United Fronteras* in its [first phase, Mexico-United States borderlands](https://unitedfronteras.github.io/ufexhibition_mexusa/), features two digital projects that are at the foreground of furthering our
 understanding of borderlands and Latina/os: [*Southern Colorado Borderlands*](https://unitedfronteras.github.io/ufexhibition_mexusa/united/obj099/) and [*Rural
 Immigration Network (RIN)*](https://unitedfronteras.github.io/ufexhibition_mexusa/united/obj098/). *Southern Colorado Borderlands* reminds us that the U.S.-Mexico
 Border was not always set at the Rio Grande. Before 1848 it was hundreds of miles north along
@@ -60,5 +60,6 @@ University of Texas Press, 2017); Julie M. Weise, Corazón de Dixie: Mexicanos i
 (Chapel Hill: University of North Carolina Press, 2015); Refugio Rochin, “Latinos on the Great Plains: An
 Overview,” Great Plains Research 10 (Fall 2000): 243-252; Bryan Winston, “Mexican Community Formation in
 Nebraska, 1910-1950,” Nebraska History, 100 (Spring 2019): 3-19.
+
 2 “What is the Rural Immigration Network (RIN)?” Rural Immigration Network,
 https://ruralimmigration.net/about2-page/.
