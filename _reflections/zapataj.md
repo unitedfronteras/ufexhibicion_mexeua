@@ -24,7 +24,7 @@ Immigration Network (RIN)*](https://unitedfronteras.github.io/ufexhibition_mexus
 Border was not always set at the Rio Grande. Before 1848 it was hundreds of miles north along
 the Arkansas River that originates in Colorado. Along the Rocky Mountains-Great Plains
 borderlands of Southern Colorado, Indigenous people, ethnic Mexicans, Anglo Americans,
-Europeans, empires, and nations have met. Part of an exhibit at El Pueblo History Museum,
+Europeans, empires, and nations have met. Part of an exhibit at [El Pueblo History Museum](https://www.historycolorado.org/el-pueblo-history-museum),
 *Southern Colorado Borderlands* illuminates the continuous regional and ethnic-cultural borders
 present in Colorado via historic images, maps, and other research materials. Notably, Southern
 Colorado Borderlands reminds us that Latina/os, especially those of Mexican origin, have a deep
@@ -32,8 +32,8 @@ history in what is now the United States that predates the American Revolution.
 
 *Rural Immigration Network* focuses upon mostly recently formed Latina/o communities.
 However, much as *Southern Colorado Borderlands*, *Rural Immigration Network* serves the
-broad public. Using community-based research practices, Katherine Tegtmeyer Pak (St Olaf
-College) worked alongside students and other professors to create the project in 2014, and it
+broad public. Using community-based research practices, Katherine Tegtmeyer Pak [(St Olaf
+College)](https://wp.stolaf.edu/) worked alongside students and other professors to create the project in 2014, and it
 continues to grow. *Rural Immigration Network* is geared towards advocates, teachers, health care
 providers, community planners, volunteers, public officials, as well as other groups and
 individuals seeking to make rural locations better places to live. It does so through an interactive
